@@ -46,12 +46,14 @@ Database:
 
 🔄 Hibernate ORM for efficient database operations
 
+👨‍💻 Developed By
+Rishi Singh
 
 ![3](https://github.com/Rishisingh96/NoteTaker-WebApp/assets/95511249/1b7afa26-c50e-42ed-a196-eead45004cc0)
 ![1](https://github.com/Rishisingh96/NoteTaker-WebApp/assets/95511249/3e67d139-164a-4a0b-b70d-c903510a4fd2)
 
-👨‍💻 Developed By
-Rishi Singh
 
 ![1](https://github.com/Rishisingh96/NoteTaker-WebApp/assets/95511249/19b6fe75-7229-44e6-8035-44b0a0b04816)
 ![Screenshot 2024-03-31 081933](https://github.com/Rishisingh96/NoteTaker-WebApp/assets/95511249/728f7ca9-35d9-4634-a43a-2eb5d2f2f0ed)
+![2](https://github.com/user-attachments/assets/c0f3e9bf-8aae-4f7d-82e9-50a41604437c)
+
